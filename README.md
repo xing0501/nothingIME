@@ -47,5 +47,5 @@ v1.0<br/>
 <img width="300" alt="IMG_F4BFE2701895-1-portrait" src="https://github.com/user-attachments/assets/b2ae418f-072e-43d3-a4e3-ece3bc0bc869" />
 
 
-## 隱私槽政策
+## 隱私權政策
 不蒐集個人資料、學習詞資料僅儲存在本地，沒有設計上傳資料功能，完全本地使用。 
