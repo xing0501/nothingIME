@@ -41,8 +41,8 @@ v1.0<br/>
 
 ## 安裝
 到 App Store 下載<br/>
-（[南極蝦鍵盤](https://apps.apple.com/tw/app/%E5%8D%97%E6%A5%B5%E8%9D%A6%E9%8D%B5%E7%9B%A4-nothingime/id6748654605)<br/>
-([南極蝦鍵盤 Lite (免費版)](https://apps.apple.com/tw/app/%E5%8D%97%E6%A5%B5%E8%9D%A6%E9%8D%B5%E7%9B%A4lite-%E6%94%AF%E6%8F%B4%E5%98%B8%E8%9D%A6%E7%B1%B3%E9%8D%B5%E7%9B%A4%E8%BC%B8%E5%85%A5%E6%B3%95/id6749168274))<br/>
+[南極蝦鍵盤 | nothingIME](https://apps.apple.com/tw/app/%E5%8D%97%E6%A5%B5%E8%9D%A6%E9%8D%B5%E7%9B%A4-nothingime/id6748654605)<br/>
+[南極蝦鍵盤 | nothingIME Lite (免費版)](https://apps.apple.com/tw/app/%E5%8D%97%E6%A5%B5%E8%9D%A6%E9%8D%B5%E7%9B%A4lite-%E6%94%AF%E6%8F%B4%E5%98%B8%E8%9D%A6%E7%B1%B3%E9%8D%B5%E7%9B%A4%E8%BC%B8%E5%85%A5%E6%B3%95/id6749168274)<br/>
 <img width="300" alt="IMG_3333A2D174CC-1-portrait" src="https://github.com/user-attachments/assets/3bee64dd-027c-49a7-82e4-6cc6ad5ca05f" />
 
 ## 隱私槽政策
