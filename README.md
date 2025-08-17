@@ -17,10 +17,10 @@
 
 ## 截圖
 ![設定頁]
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 22 34" src="https://github.com/user-attachments/assets/c98ca399-ea09-4708-9811-445842419920" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 24 04" src="https://github.com/user-attachments/assets/989286b7-7285-47d9-b246-4b53ec9c8dd5" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 29" src="https://github.com/user-attachments/assets/cd5cfa73-8e47-4a96-922a-8e701bb2b1b1" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 44" src="https://github.com/user-attachments/assets/d41d6973-8816-4060-a626-e655dfbc4ca3" />
+<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 22 34" src="https://github.com/user-attachments/assets/c98ca399-ea09-4708-9811-445842419920" />
+<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 24 04" src="https://github.com/user-attachments/assets/989286b7-7285-47d9-b246-4b53ec9c8dd5" />
+<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 29" src="https://github.com/user-attachments/assets/cd5cfa73-8e47-4a96-922a-8e701bb2b1b1" />
+<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 44" src="https://github.com/user-attachments/assets/d41d6973-8816-4060-a626-e655dfbc4ca3" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 52" src="https://github.com/user-attachments/assets/39a40ac4-e312-48cc-9c50-cb30977157d6" />
 
 ![鍵盤介面]
@@ -31,4 +31,4 @@
 到 App Store 下載（[南極蝦鍵盤](https://apps.apple.com/tw/app/%E5%8D%97%E6%A5%B5%E8%9D%A6%E9%8D%B5%E7%9B%A4-nothingime/id6748654605)）。
 
 ## 隱私
-不蒐集個人資料；學習詞資料僅儲存在 App Group（可於「清空學習詞」移除）。 :contentReference[oaicite:17]{index=17}
+不蒐集個人資料；學習詞資料僅儲存在 App Group（可於「清空學習詞」移除）。 
