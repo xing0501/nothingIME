@@ -20,7 +20,7 @@
 ![鍵盤介面](images/keyboard.png)
 
 ## 安裝
-到 App Store 下載（填上你的連結）。
+到 App Store 下載（[南極蝦鍵盤](https://apps.apple.com/tw/app/%E5%8D%97%E6%A5%B5%E8%9D%A6%E9%8D%B5%E7%9B%A4-nothingime/id6748654605)）。
 
 ## 隱私
 不蒐集個人資料；學習詞資料僅儲存在 App Group（可於「清空學習詞」移除）。 :contentReference[oaicite:17]{index=17}
