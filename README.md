@@ -26,14 +26,15 @@ v1.0<br/>
 
 ## 操作畫面
 ![設定頁] <br/>
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 22 34" src="https://github.com/user-attachments/assets/c98ca399-ea09-4708-9811-445842419920" style="border:1px solid #ccc; border-radius:6px; box-shadow:2px 2px 5px #aaa;" />
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 24 04" src="https://github.com/user-attachments/assets/989286b7-7285-47d9-b246-4b53ec9c8dd5" style="border: 1px solid #ccc;" />
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 29" src="https://github.com/user-attachments/assets/cd5cfa73-8e47-4a96-922a-8e701bb2b1b1" style="border: 1px solid #ccc;" />
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 44" src="https://github.com/user-attachments/assets/d41d6973-8816-4060-a626-e655dfbc4ca3" style="border: 1px solid #ccc;" />
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 52" src="https://github.com/user-attachments/assets/39a40ac4-e312-48cc-9c50-cb30977157d6" style="border: 1px solid #ccc;" />
+<img width="1419" height="2796" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 24 04-portrait" src="https://github.com/user-attachments/assets/51eb45b4-8865-40da-9954-236936037907" />
+<img width="1419" height="2796" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 52-portrait" src="https://github.com/user-attachments/assets/989dc0f5-c3a5-405f-88e8-ef41bfe05e8a" />
+<img width="1419" height="2796" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 44-portrait" src="https://github.com/user-attachments/assets/9ff09a71-20b4-4a7f-84ac-ac0520dfb20f" />
+<img width="1419" height="2796" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 29-portrait" src="https://github.com/user-attachments/assets/fcea74df-e287-4145-b7e8-6940824e8339" />
+<img width="1419" height="2796" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 22 34-portrait" src="https://github.com/user-attachments/assets/daa0accc-c710-4c52-8754-5503afa87f35" />
 
 ![鍵盤介面]<br/>
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 24 44" src="https://github.com/user-attachments/assets/63e8d360-6f71-4a67-baae-b161154c67ae" style="border: 1px solid #ccc;" />
+<img width="1419" height="2796" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 24 44-portrait" src="https://github.com/user-attachments/assets/855c2e7a-64ae-4c0d-a3eb-00b8dfb2ac18" />
+
 
 
 ## 安裝
