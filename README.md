@@ -34,6 +34,8 @@ v1.0<br/>
 
 ![鍵盤介面]<br/>
 <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 24 44-portrait" src="https://github.com/user-attachments/assets/855c2e7a-64ae-4c0d-a3eb-00b8dfb2ac18" />
+<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 54 04-portrait" src="https://github.com/user-attachments/assets/1dc6e7b9-f1a7-41f8-8240-faf8538beac8" />
+<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 53 33-portrait" src="https://github.com/user-attachments/assets/eb688bfb-419b-4d86-837d-bdb32ec3a5dc" />
 
 
 
