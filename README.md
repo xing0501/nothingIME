@@ -56,10 +56,10 @@ A：請依以下步驟匯入：
   <img width="274" alt="截圖 2025-09-28 晚上7 06 40" src="https://github.com/user-attachments/assets/0587aa5d-5df6-4b11-b3a2-49970a76cdde" />
   <br/>
   3、選取本機存字碼檔的位置可以看到字碼檔，點擊它<br/>
-  <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 07 24" src="https://github.com/user-attachments/assets/9e139eed-dc77-48d1-a72d-7efdd4445e08" />
+  <img width="300"  alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 07 37" src="https://github.com/user-attachments/assets/ef1444a9-21db-4120-ad2a-022384a9277c" />
   <br/>
   4、回到設定會看到「匯入成功，已覆蓋boshiamy.json!」且目前字碼檔字數：39,727字，表示上傳成功。<br/>
-  <img width="300"  alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 07 37" src="https://github.com/user-attachments/assets/ef1444a9-21db-4120-ad2a-022384a9277c" />
+  <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 07 24" src="https://github.com/user-attachments/assets/9e139eed-dc77-48d1-a72d-7efdd4445e08" />
   <br/>
   5、這時打開任何可打字的app就可以用嘸蝦米字碼打字了。<br/>
   <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 08 13" src="https://github.com/user-attachments/assets/c8863fa7-c763-4afe-a108-444c83056396" />
