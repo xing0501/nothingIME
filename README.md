@@ -64,6 +64,10 @@ A：請依以下步驟匯入：
   5、這時打開任何可打字的app就可以用嘸蝦米字碼打字了。<br/>
   <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 08 13" src="https://github.com/user-attachments/assets/c8863fa7-c763-4afe-a108-444c83056396" />
   <br/><br/>
+Q：字碼檔如何取得？
+<br/>
+A：請從行易網站下載並轉檔，或從網路下載取得。
+<br/><br/>
 
 ## 隱私權政策
 不蒐集個人資料、學習詞資料僅儲存在本地，沒有設計上傳資料功能，完全本地使用。 
