@@ -3,31 +3,7 @@
 一款注重打字流暢度與可自訂性的iOS第三方鍵盤，支援嘸蝦米輸入法。
 
 ## 更新歷程
-v1.4 2025/8/28<br/>
-．ipad浮動式鍵盤排版調整
-v1.3<br/>
-．符號鍵盤重新排版(參考一般鍵位設計)
-．自動學習效調(排除非中文字)
-．微調鍵盤調整寬度
-．整體效能調整
-．ios26支援
-<br/>
-v1.2<br/>
-- 全域滑動改成空白鍵及候選字區控制游標
-- 打字放大按鍵效果效能調整
-- 手動關閉詞庫功能
-- 手動關閉自動學習功能
-- 優化鍵盤按住放開減少打錯字母
-- 自訂直立式鍵盤高度
-- 打字效能提升
-<br/>
-v1.1<br/>
-新增功能：<br/>
-- 全域滑動控制移動游標 
-- 自動學習詞彙
-<br/>
-v1.0<br/>
-初版發佈
+詳見app store<br/>
 
 ## 功能特色
 - 主畫面標題顯示：**南極蝦鍵盤 | nothingIME**（App 內設定頁）
@@ -64,6 +40,31 @@ v1.0<br/>
 <img width="300" alt="IMG_3333A2D174CC-1-portrait" src="https://github.com/user-attachments/assets/3bee64dd-027c-49a7-82e4-6cc6ad5ca05f" />
 <img width="300" alt="IMG_F4BFE2701895-1-portrait" src="https://github.com/user-attachments/assets/b2ae418f-072e-43d3-a4e3-ece3bc0bc869" />
 
-
+## 關於字碼檔cin安裝及其他問題Q&A
+Q：為何要自備字碼檔？不能內建嗎？<br/>
+A：嘸蝦米字碼檔為行易公司版權所有，未經授權不可任意使用，所以無法內建在鍵盤之內。因此增加推廣嘸蝦米的難度。
+<br/><br/>
+Q：字碼檔(cin)怎麼匯入？<br/>
+A：請依以下步驟匯入
+<br/>
+1、準備好字碼檔(cin)，字碼檔如果用記事本打開會像下圖一樣，其實它就是一個普通文字檔。<br/>
+<img width="443" height="498" alt="截圖 2025-09-28 下午6 59 08" src="https://github.com/user-attachments/assets/f014b4c8-d486-411e-97f7-026cb83787fe" />
+<br/>
+2、進入南極蝦鍵盤-設定-找到「上傳字碼檔(.cin)」，點擊它<br/>
+<img width="274" height="583" alt="截圖 2025-09-28 晚上7 06 40" src="https://github.com/user-attachments/assets/0587aa5d-5df6-4b11-b3a2-49970a76cdde" />
+<br/>
+3、選取本機存字碼檔的位置可以看到字碼檔，點擊它<br/>
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 07 24" src="https://github.com/user-attachments/assets/9e139eed-dc77-48d1-a72d-7efdd4445e08" />
+<br/>
+4、回到設定會看到「匯入成功，已覆蓋boshiamy.json!」且目前字碼檔字數：39,727字，表示上傳成功。<br/>
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 07 37" src="https://github.com/user-attachments/assets/ef1444a9-21db-4120-ad2a-022384a9277c" />
+<br/>
+5、這時打開任何可打字的app就可以用嘸蝦米字碼打字了。<br/>
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 08 13" src="https://github.com/user-attachments/assets/c8863fa7-c763-4afe-a108-444c83056396" />
+<br/><br/>
+Q：
+<br/>
+A：
+<br/><br/>
 ## 隱私權政策
 不蒐集個人資料、學習詞資料僅儲存在本地，沒有設計上傳資料功能，完全本地使用。 
