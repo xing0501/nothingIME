@@ -31,8 +31,6 @@
 <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 54 04-portrait" src="https://github.com/user-attachments/assets/1dc6e7b9-f1a7-41f8-8240-faf8538beac8" />
 <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 53 33-portrait" src="https://github.com/user-attachments/assets/eb688bfb-419b-4d86-837d-bdb32ec3a5dc" />
 
-
-
 ## 安裝
 到 App Store 下載<br/>
 [南極蝦鍵盤 | nothingIME](https://apps.apple.com/tw/app/%E5%8D%97%E6%A5%B5%E8%9D%A6%E9%8D%B5%E7%9B%A4-nothingime/id6748654605)<br/>
@@ -40,31 +38,32 @@
 <img width="300" alt="IMG_3333A2D174CC-1-portrait" src="https://github.com/user-attachments/assets/3bee64dd-027c-49a7-82e4-6cc6ad5ca05f" />
 <img width="300" alt="IMG_F4BFE2701895-1-portrait" src="https://github.com/user-attachments/assets/b2ae418f-072e-43d3-a4e3-ece3bc0bc869" />
 
-## 關於字碼檔cin安裝及其他問題Q&A
+## 關於字碼檔cin安裝及問題Q&A
 Q：為何要自備字碼檔？不能內建嗎？<br/>
-A：嘸蝦米字碼檔為行易公司版權所有，未經授權不可任意使用，所以無法內建在鍵盤之內。因此增加推廣嘸蝦米的難度。
+A：嘸蝦米字碼檔為<b>行易公司版權所有</b>，未經授權不可任意使用，所以無法內建在鍵盤之內，因此而增加推廣嘸蝦米的難度。
+<br/><br/>
+Q：字碼檔如何取得？
+<br/>
+A：請從行易網站下載並轉檔，或從網路下載取得。
 <br/><br/>
 Q：字碼檔(cin)怎麼匯入？<br/>
-A：請依以下步驟匯入
+A：請依以下步驟匯入：
 <br/>
-1、準備好字碼檔(cin)，字碼檔如果用記事本打開會像下圖一樣，其實它就是一個普通文字檔。<br/>
-<img width="443" height="498" alt="截圖 2025-09-28 下午6 59 08" src="https://github.com/user-attachments/assets/f014b4c8-d486-411e-97f7-026cb83787fe" />
-<br/>
-2、進入南極蝦鍵盤-設定-找到「上傳字碼檔(.cin)」，點擊它<br/>
-<img width="274" height="583" alt="截圖 2025-09-28 晚上7 06 40" src="https://github.com/user-attachments/assets/0587aa5d-5df6-4b11-b3a2-49970a76cdde" />
-<br/>
-3、選取本機存字碼檔的位置可以看到字碼檔，點擊它<br/>
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 07 24" src="https://github.com/user-attachments/assets/9e139eed-dc77-48d1-a72d-7efdd4445e08" />
-<br/>
-4、回到設定會看到「匯入成功，已覆蓋boshiamy.json!」且目前字碼檔字數：39,727字，表示上傳成功。<br/>
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 07 37" src="https://github.com/user-attachments/assets/ef1444a9-21db-4120-ad2a-022384a9277c" />
-<br/>
-5、這時打開任何可打字的app就可以用嘸蝦米字碼打字了。<br/>
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 08 13" src="https://github.com/user-attachments/assets/c8863fa7-c763-4afe-a108-444c83056396" />
-<br/><br/>
-Q：
-<br/>
-A：
-<br/><br/>
+  1、準備好字碼檔(cin)，字碼檔如果用記事本打開會像下圖一樣，其實它就是一個普通文字檔。<br/>
+  <img width="300" alt="截圖 2025-09-28 下午6 59 08" src="https://github.com/user-attachments/assets/f014b4c8-d486-411e-97f7-026cb83787fe" />
+  <br/>
+  2、進入南極蝦鍵盤-設定-找到「上傳字碼檔(.cin)」，點擊它<br/>
+  <img width="274" alt="截圖 2025-09-28 晚上7 06 40" src="https://github.com/user-attachments/assets/0587aa5d-5df6-4b11-b3a2-49970a76cdde" />
+  <br/>
+  3、選取本機存字碼檔的位置可以看到字碼檔，點擊它<br/>
+  <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 07 24" src="https://github.com/user-attachments/assets/9e139eed-dc77-48d1-a72d-7efdd4445e08" />
+  <br/>
+  4、回到設定會看到「匯入成功，已覆蓋boshiamy.json!」且目前字碼檔字數：39,727字，表示上傳成功。<br/>
+  <img width="300"  alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 07 37" src="https://github.com/user-attachments/assets/ef1444a9-21db-4120-ad2a-022384a9277c" />
+  <br/>
+  5、這時打開任何可打字的app就可以用嘸蝦米字碼打字了。<br/>
+  <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 08 13" src="https://github.com/user-attachments/assets/c8863fa7-c763-4afe-a108-444c83056396" />
+  <br/><br/>
+
 ## 隱私權政策
 不蒐集個人資料、學習詞資料僅儲存在本地，沒有設計上傳資料功能，完全本地使用。 
