@@ -19,8 +19,8 @@
 - 可刪除、清空學習詞 
 - iPhone 直立模式可調「鍵高」範圍（預設 50，範圍 40–100） 
 
-## FaceBook
-<a href="https://www.facebook.com/groups/1417781276124676" target="_blank">南極蝦鍵盤 | nothingIME</a>
+## FaceBook 社團專煩
+<a href="https://www.facebook.com/groups/1417781276124676" target="_blank" rel="noopener noreferrer">南極蝦鍵盤 | nothingIME</a>
 
 ## 操作畫面
 ![設定頁] <br/>
