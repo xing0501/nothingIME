@@ -44,15 +44,20 @@
 <img width="300" alt="IMG_F4BFE2701895-1-portrait" src="https://github.com/user-attachments/assets/b2ae418f-072e-43d3-a4e3-ece3bc0bc869" />
 
 ## 關於字碼檔cin安裝及問題Q&A
-Q：為何要自備字碼檔(cin)？不能內建比較方便嗎？<br/>
-A：嘸蝦米字碼檔為<b>行易公司版權所有</b>，未經授權不可任意使用，所以無法內建在鍵盤之內，因此而增加推廣嘸蝦米的難度。(不會使用請來信詢問作者或在facebook社團內提問)
+<details>
+  <summary>Q：為何要自備字碼檔(cin)？不能內建比較方便嗎？</summary>
+  A：嘸蝦米字碼檔為<b>行易公司版權所有</b>，未經授權不可任意使用，所以無法內建在鍵盤之內，因此而增加推廣嘸蝦米的難度。(不會使用請來信詢問作者或在facebook社團內提問)
 <br/><br/>
-Q：字碼檔如何取得？
-<br/>
-A：請從行易網站下載並轉檔，或從網路查詢取得方式。
-<br/><br/>
-Q：字碼檔(cin)怎麼匯入？<br/>
-A：請依以下步驟匯入：
+</details>
+
+<details>
+  <summary>Q：字碼檔如何取得？</summary>
+  A：請從行易網站下載並轉檔，或從網路查詢取得方式。
+</details>
+
+<details>
+  <summary>Q：字碼檔(cin)怎麼匯入？</summary>
+  A：請依以下步驟匯入：
 <br/>
   1、準備好字碼檔(cin)，字碼檔如果用記事本打開會像下圖一樣(拆解碼[空4格或tab]完成後的組字)，其實它就是一個普通文字檔。<br/>
   <img width="300" alt="截圖 2025-09-28 下午6 59 08" src="https://github.com/user-attachments/assets/f014b4c8-d486-411e-97f7-026cb83787fe" />
@@ -69,19 +74,22 @@ A：請依以下步驟匯入：
   5、這時打開任何可打字的app就可以用嘸蝦米字碼打字了。<br/>
   <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-28 at 19 08 13" src="https://github.com/user-attachments/assets/c8863fa7-c763-4afe-a108-444c83056396" />
   <br/><br/>
-Q：Lite版和付費版有何不用？
-<br/>
-A：Lite版專注打字流暢且完全免費使用；<br/>
+</details>
+
+
+<details>
+  <summary>Q：Lite版和付費版有何不同？</summary>
+  A：Lite版專注打字流暢且完全免費使用；<br/>
    付費版加入許多附加功能(例如：內建字庫、自動學習、加字加詞)。使用者可以依照自己的需求選用。(如果只需要基本打字Lite版已經夠用了，如覺得app不錯也可買付費版贊助開發者)
-<br/><br/>
-Q：有滑動控制移動游標的功能嗎？
-<br/>
-A：有這個功能。<br/>
+</details>
+
+<details>
+  <summary>Q：有滑動控制移動游標的功能嗎？</summary>
+  A：有這個功能。<br/>
    長按空白鍵手機會震動一下，這時左右滑動就可以移動游標的位置。
    候選字列沒有文字時也若以左右滑動移動游標。
    空白鍵的移動比較小(滑動長度長移動距離短)、候選字列的移動較大(滑動長度長移動距離長)。
-<br/><br/>
-
+</details>
 
 <details>
   <summary>Q：主鍵盤qwertyuiop鍵上有1234567890是可以用的嗎？</summary>
@@ -94,6 +102,7 @@ A：有這個功能。<br/>
   A：在設定-使用詞庫關閉再打開，重複2次以防止沒有正確設定好。<br/>
    如果還是沒效果，請重新安裝app及重新開機。
 </details>
+
 <details>
   <summary>Q：什麼是蝦米模式？</summary>
   A：傳統嘸蝦米鍵盤最多只能輸入五字字根，這個模式就是類似傳統的做法，<br/>
