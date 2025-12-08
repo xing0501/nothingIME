@@ -111,7 +111,7 @@
 
 <details>
   <summary>Q：如何使用同音字查詢？</summary>
-  A：(1)輸入符號「'」 (2)輸入同字字碼，例如neo+空白鍵 (3)這時選同意字，例如「同」，就會出現與「同」相同音的國字，點擊即可送字。
+  A：(1)輸入符號「'」<br/> (2)輸入同字字碼，例如neo+空白鍵<br/> (3)這時選同意字，例如「同」，就會出現與「同」相同音的國字，點擊即可送字。<br/>
   <img width="300" alt="image" src="https://github.com/user-attachments/assets/87b749ab-89a5-4e03-bd53-1d0d6d4a5c17" />
 <img width="300"  alt="image" src="https://github.com/user-attachments/assets/8c8f3d6f-dc91-44cc-bbc1-27102d5ae903" />
 <img width="300"  alt="image" src="https://github.com/user-attachments/assets/d1aa49aa-a2c0-40a0-b953-c1726f41d080" />
