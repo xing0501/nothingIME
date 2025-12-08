@@ -108,6 +108,17 @@
   A：傳統嘸蝦米鍵盤最多只能輸入五字字根，這個模式就是類似傳統的做法，<br/>
    開啟此模式只能打五字組字，無法用字詞連打功能。
 </details>
+
+<details>
+  <summary>Q：如何使用同音字查詢？</summary>
+  A：(1)輸入符號「'」 (2)輸入同字字碼，例如neo+空白鍵 (3)這時選同意字，例如「同」，就會出現與「同」相同音的國字，點擊即可送字。
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/87b749ab-89a5-4e03-bd53-1d0d6d4a5c17" />
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/8c8f3d6f-dc91-44cc-bbc1-27102d5ae903" />
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/d1aa49aa-a2c0-40a0-b953-c1726f41d080" />
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/05754c3d-de6c-4c32-8dd8-e88ee2be0a4d" />
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/69f8832a-2ade-4f68-91af-69e6493dba6e" />
+
+</details>
 <br/><br/>
 
 ## 隱私權政策
