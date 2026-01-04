@@ -30,8 +30,8 @@
 <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 44-portrait" src="https://github.com/user-attachments/assets/9ff09a71-20b4-4a7f-84ac-ac0520dfb20f" />
 <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 29-portrait" src="https://github.com/user-attachments/assets/fcea74df-e287-4145-b7e8-6940824e8339" />
 <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 52-portrait" src="https://github.com/user-attachments/assets/989dc0f5-c3a5-405f-88e8-ef41bfe05e8a" />
-<img width="1260" height="2736" alt="未命名的作品 24" src="https://github.com/user-attachments/assets/2bc2f198-ced4-4023-921b-22ed9e7241ff" />
-<img width="1260" height="2736" alt="未命名的作品 25" src="https://github.com/user-attachments/assets/0cba6ca4-23cc-4b5d-812b-5a94c6deb909" />
+<img width="300" src="https://github.com/user-attachments/assets/2bc2f198-ced4-4023-921b-22ed9e7241ff" />
+<img width="300" src="https://github.com/user-attachments/assets/0cba6ca4-23cc-4b5d-812b-5a94c6deb909" />
 
 
 
@@ -39,8 +39,8 @@
 <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 24 44-portrait" src="https://github.com/user-attachments/assets/855c2e7a-64ae-4c0d-a3eb-00b8dfb2ac18" />
 <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 54 04-portrait" src="https://github.com/user-attachments/assets/1dc6e7b9-f1a7-41f8-8240-faf8538beac8" />
 <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 53 33-portrait" src="https://github.com/user-attachments/assets/eb688bfb-419b-4d86-837d-bdb32ec3a5dc" />
-<img width="1260" height="2736" alt="未命名的作品 26" src="https://github.com/user-attachments/assets/13298d74-c3d9-4847-93a4-0d48e5c24ec5" />
-<img width="1260" height="2736" alt="未命名的作品 27" src="https://github.com/user-attachments/assets/51a605c5-9dbc-435a-8856-42f1da632a6d" />
+<img width="300" src="https://github.com/user-attachments/assets/13298d74-c3d9-4847-93a4-0d48e5c24ec5" />
+<img width="300" src="https://github.com/user-attachments/assets/51a605c5-9dbc-435a-8856-42f1da632a6d" />
 
 ## 安裝
 到 App Store 下載<br/>
