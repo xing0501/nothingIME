@@ -128,9 +128,9 @@
 <details>
   <summary>Q：如何使用九宮格鍵盤？</summary>
   A：按下下圖黃色區塊的按鍵就可進入九宮格鍵盤，操作方式和符號鍵盤一樣，按下即出字<br/>
-  <img width="300" src="https://github.com/user-attachments/assets/4e8647a3-31ac-4d54-a700-52e4f7db5467" /> <br/>
+  <img width="300" src="https://github.com/user-attachments/assets/2ba5335d-48ce-41a9-97f7-2c88e0455717" /><br/>
    按「中」或「ⓧ」可關閉九宮格鍵盤，回到中文鍵盤。<br/>
-  <img width="300" src="https://github.com/user-attachments/assets/2ba5335d-48ce-41a9-97f7-2c88e0455717" />
+  <img width="300" src="https://github.com/user-attachments/assets/4e8647a3-31ac-4d54-a700-52e4f7db5467" />
 
 </details>
 
