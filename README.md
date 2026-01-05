@@ -123,8 +123,16 @@
 <img width="300"  alt="image" src="https://github.com/user-attachments/assets/d1aa49aa-a2c0-40a0-b953-c1726f41d080" />
 <img width="300"  alt="image" src="https://github.com/user-attachments/assets/05754c3d-de6c-4c32-8dd8-e88ee2be0a4d" />
 <img width="300"  alt="image" src="https://github.com/user-attachments/assets/69f8832a-2ade-4f68-91af-69e6493dba6e" />
-
 </details>
+
+<details>
+  <summary>Q：如何使用九宮格鍵盤？</summary>
+  A：按下下圖黃色區塊的按鍵就可進入九宮格鍵盤，操作方式和符號鍵盤一樣，按下即出字<br/>
+  <img width="1260" height="2736" alt="未命名的作品 28" src="https://github.com/user-attachments/assets/4e8647a3-31ac-4d54-a700-52e4f7db5467" /> <br/>
+   按「中」或「ⓧ」可關閉九宮格鍵盤，回到中文鍵盤。
+</details>
+
+
 <br/><br/>
 
 ## 隱私權政策
