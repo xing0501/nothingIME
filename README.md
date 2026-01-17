@@ -19,6 +19,8 @@
 - 可刪除、清空學習詞 
 - iPhone 直立模式可調「鍵高」範圍
 - 鍵盤地球鍵開/關，以支援無原生地球鍵的機種
+- 同音同查詢/輸入
+- 九宮格鍵盤
 
 ## FaceBook 社團
 <a href="https://www.facebook.com/groups/1417781276124676" target="_blank" rel="noopener noreferrer">南極蝦鍵盤 | nothingIME</a>
