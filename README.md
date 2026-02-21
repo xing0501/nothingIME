@@ -33,7 +33,8 @@
 <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 29-portrait" src="https://github.com/user-attachments/assets/fcea74df-e287-4145-b7e8-6940824e8339" />
 <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 52-portrait" src="https://github.com/user-attachments/assets/989dc0f5-c3a5-405f-88e8-ef41bfe05e8a" />
 <img width="300" src="https://github.com/user-attachments/assets/2bc2f198-ced4-4023-921b-22ed9e7241ff" />
-<img width="300" src="https://github.com/user-attachments/assets/0cba6ca4-23cc-4b5d-812b-5a94c6deb909" />
+<img width="300" src="https://github.com/user-attachments/assets/198db4d0-da42-44df-a78e-1c7ce535522a" />
+
 
 
 
@@ -142,8 +143,7 @@
   <summary>Q：如何使用注音鍵盤？</summary>
   A：按下主畫面「注」的功能按鍵就可進入注音鍵盤，輸入注音碼會查出相關中文字，按下即出字並出現該字的嘸蝦米字碼。<br/>
    按右下角「蝦」可關閉注音鍵盤，回到南極蝦中文鍵盤。<br/>
-  <img width="300" src="https://github.com/user-attachments/assets/e81566c7-5bbe-48bc-ac32-dbb883b8ba4c" />
-
+  <img width="300" src="https://github.com/user-attachments/assets/e0e80aa7-6e92-4432-8516-31c3520d1bd0" />
 
 </details>
 
