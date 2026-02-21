@@ -43,6 +43,8 @@
 <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 53 33-portrait" src="https://github.com/user-attachments/assets/eb688bfb-419b-4d86-837d-bdb32ec3a5dc" />
 <img width="300" src="https://github.com/user-attachments/assets/13298d74-c3d9-4847-93a4-0d48e5c24ec5" />
 <img width="300" src="https://github.com/user-attachments/assets/51a605c5-9dbc-435a-8856-42f1da632a6d" />
+<img width="300" src="https://github.com/user-attachments/assets/057f0131-812f-46c7-ac1b-9b01a440a981" />
+
 
 ## 安裝
 到 App Store 下載<br/>
@@ -133,6 +135,15 @@
   <img width="300" src="https://github.com/user-attachments/assets/2ba5335d-48ce-41a9-97f7-2c88e0455717" /><br/>
    按「中」或「ⓧ」可關閉九宮格鍵盤，回到中文鍵盤。<br/>
   <img width="300" src="https://github.com/user-attachments/assets/4e8647a3-31ac-4d54-a700-52e4f7db5467" />
+
+</details>
+
+<details>
+  <summary>Q：如何使用注音鍵盤？</summary>
+  A：按下主畫面「注」的功能按鍵就可進入注音鍵盤，輸入注音碼會查出相關中文字，按下即出字並出現該字的嘸蝦米字碼。<br/>
+   按右下角「蝦」可關閉注音鍵盤，回到南極蝦中文鍵盤。<br/>
+  <img width="300" src="https://github.com/user-attachments/assets/e81566c7-5bbe-48bc-ac32-dbb883b8ba4c" />
+
 
 </details>
 
