@@ -33,8 +33,6 @@
 <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 29-portrait" src="https://github.com/user-attachments/assets/fcea74df-e287-4145-b7e8-6940824e8339" />
 <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 23 52-portrait" src="https://github.com/user-attachments/assets/989dc0f5-c3a5-405f-88e8-ef41bfe05e8a" />
 <img width="300" src="https://github.com/user-attachments/assets/2bc2f198-ced4-4023-921b-22ed9e7241ff" />
-<img width="300" src="https://github.com/user-attachments/assets/198db4d0-da42-44df-a78e-1c7ce535522a" />
-
 
 
 
@@ -44,7 +42,7 @@
 <img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 53 33-portrait" src="https://github.com/user-attachments/assets/eb688bfb-419b-4d86-837d-bdb32ec3a5dc" />
 <img width="300" src="https://github.com/user-attachments/assets/13298d74-c3d9-4847-93a4-0d48e5c24ec5" />
 <img width="300" src="https://github.com/user-attachments/assets/51a605c5-9dbc-435a-8856-42f1da632a6d" />
-<img width="300" src="https://github.com/user-attachments/assets/057f0131-812f-46c7-ac1b-9b01a440a981" />
+<img width="300" src="https://github.com/user-attachments/assets/198db4d0-da42-44df-a78e-1c7ce535522a" />
 
 
 ## 安裝
