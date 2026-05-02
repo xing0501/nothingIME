@@ -146,6 +146,16 @@
 
 </details>
 
+<details>
+  <summary>Q：打字震動回饋有打開為何還是沒有震動？</summary>
+  A：請將輸入法「允許完整取用打開」，就會有震動回饋了。<br/>
+</details>
+
+<details>
+  <summary>Q：自動學習有打開為何還是沒有自動學習？</summary>
+  A：請將輸入法「允許完整取用打開」，就會有自動學習了。<br/>
+</details>
+
 
 <br/><br/>
 
