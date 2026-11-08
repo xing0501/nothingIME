@@ -45,6 +45,9 @@
 <img width="300" src="https://github.com/user-attachments/assets/51a605c5-9dbc-435a-8856-42f1da632a6d" />
 <img width="300" src="https://github.com/user-attachments/assets/198db4d0-da42-44df-a78e-1c7ce535522a" />
 
+<img width="600" alt="resized_截圖 2026-11-07 08 18 39" src="https://github.com/user-attachments/assets/185a9d79-f990-403a-b2c7-60ec43d55a69" />
+
+
 
 ## 安裝
 到 App Store 下載<br/>
